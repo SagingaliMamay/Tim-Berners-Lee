@@ -1,0 +1,13 @@
+.wrapper{
+    position: relative;
+    left: 40%;
+    background-color:rgb(219, 239, 240);
+    display: grid;
+    grid-template-columns:250px;
+
+}
+.inventor{
+    position: relative;
+    left:95%;
+    margin-top:8.5%;
+}
